@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="Cannot_be_cracked" data-name="Cannot be cracked" transform="translate(-1512 -1161)">
+    <g id="矩形_688" data-name="矩形 688" transform="translate(1512 1161)" fill="#fff" stroke="#9bcaff" stroke-width="2">
+      <rect width="60" height="60" rx="2" stroke="none"/>
+      <rect x="1" y="1" width="58" height="58" rx="1" fill="none"/>
+    </g>
+    <g id="组_4" data-name="组 4" transform="translate(1532.257 1171.4)">
+      <g id="矩形_684" data-name="矩形 684" transform="translate(-0.257 -0.4)" fill="#fff" stroke="#0062d1" stroke-width="2.2">
+        <rect width="20" height="16" rx="1" stroke="none"/>
+        <rect x="1.1" y="1.1" width="17.8" height="13.8" rx="0.1" fill="none"/>
+      </g>
+      <rect id="矩形_685" data-name="矩形 685" width="2.2" height="25.493" transform="translate(8.743 15.012)" fill="#0062d1"/>
+      <rect id="矩形_686" data-name="矩形 686" width="2.2" height="6.467" transform="translate(17.181 28.6) rotate(90)" fill="#0062d1"/>
+      <rect id="矩形_687" data-name="矩形 687" width="2.2" height="4.851" transform="translate(15.564 33.068) rotate(90)" fill="#0062d1"/>
+    </g>
+    <rect id="矩形_689" data-name="矩形 689" width="58" height="2" transform="translate(1513 1190)" fill="#9bcaff"/>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="222" height="64" viewBox="0 0 222 64">
+  <g id="APP_Store" data-name="APP Store" transform="translate(0.341 -0.496)">
+    <g id="组_1069" data-name="组 1069" transform="translate(0 0)">
+      <rect id="矩形_709" data-name="矩形 709" width="222" height="64" rx="10" transform="translate(-0.341 0.496)" fill="#092048"/>
+      <g id="Page-1" transform="translate(15.211 11.817)">
+        <g id="Group" transform="translate(0 0)">
+          <path id="Shape" d="M27.46,15.794A9.3,9.3,0,0,1,31.8,8a9.29,9.29,0,0,0-7.359-4.049c-3.1-.332-6.1,1.885-7.675,1.885-1.608,0-4.037-1.853-6.654-1.8A9.776,9.776,0,0,0,1.87,9.16C-1.7,15.443.964,24.677,4.38,29.757c1.709,2.487,3.706,5.265,6.32,5.167,2.557-.107,3.513-1.659,6.6-1.659,3.058,0,3.955,1.659,6.621,1.6,2.745-.045,4.473-2.5,6.122-5.009a20.722,20.722,0,0,0,2.8-5.8,8.953,8.953,0,0,1-5.382-8.255Z" transform="translate(-0.176 5.936)" fill="#fff" fill-rule="evenodd"/>
+          <path id="Shape-2" data-name="Shape" d="M12.428,6.683A9.247,9.247,0,0,0,14.483.134,9.1,9.1,0,0,0,8.569,3.247,8.794,8.794,0,0,0,6.46,9.555a7.5,7.5,0,0,0,5.968-2.872Z" transform="translate(9.82 -0.134)" fill="#fff" fill-rule="evenodd"/>
+        </g>
+      </g>
+    </g>
+    <g id="组_1070" data-name="组 1070" transform="translate(62.038 11.817)">
+      <text id="APP_Store-2" data-name="APP Store" transform="translate(50.621 36.679)" fill="#fff" font-size="22" font-family="SFCompactText-Semibold, SF Text" font-weight="600"><tspan x="-51.256" y="0">APP Store</tspan></text>
+      <text id="Download_on_the" data-name="Download on the" transform="translate(48.621 11.679)" fill="#fff" font-size="13" font-family="SFCompactText-Light, SF Text" font-weight="300"><tspan x="-49.223" y="0">Download on the</tspan></text>
+    </g>
+  </g>
+</svg>

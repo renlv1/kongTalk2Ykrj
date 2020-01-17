@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="663" height="411.539" viewBox="0 0 663 411.539">
+  <defs>
+    <filter id="椭圆_414" x="0" y="66.539" width="124" height="124" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#9bcaff" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="椭圆_415" x="539" y="287.539" width="124" height="124" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-color="#9bcaff" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="矩形_754" x="190" y="159.539" width="268" height="86" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-color="#9bcaff" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Notification" transform="translate(-636 -3313.461)">
+    <g id="组_1296" data-name="组 1296" transform="translate(-0.5 67.961)">
+      <path id="路径_10004" data-name="路径 10004" d="M3178,2239.6v399.478" transform="translate(-2217.5 1005.899)" fill="none" stroke="#cce3ff" stroke-width="1" stroke-dasharray="4"/>
+      <path id="路径_9998" data-name="路径 9998" d="M3178,2239.6v399.478" transform="translate(-1941 1006)" fill="none" stroke="#cce3ff" stroke-width="1" stroke-dasharray="4"/>
+      <path id="路径_9999" data-name="路径 9999" d="M0,0V535.4" transform="translate(1227.9 3370.485) rotate(90)" fill="none" stroke="#cce3ff" stroke-width="1" stroke-dasharray="4"/>
+      <path id="路径_10000" data-name="路径 10000" d="M0,0V535.4" transform="translate(1227.9 3519.72) rotate(90)" fill="none" stroke="#cce3ff" stroke-width="1" stroke-dasharray="4"/>
+      <path id="路径_10003" data-name="路径 10003" d="M3178,2239.6v399.478" transform="translate(-2481 1006)" fill="none" stroke="#cce3ff" stroke-width="1" stroke-dasharray="4"/>
+    </g>
+    <path id="路径_10005" data-name="路径 10005" d="M2777.1,3645.384h261.311v148.7h276.381V3849.7" transform="translate(-2078 -206)" fill="none" stroke="#9bcaff" stroke-width="3"/>
+    <g transform="matrix(1, 0, 0, 1, 636, 3313.46)" filter="url(#椭圆_414)">
+      <circle id="椭圆_414-2" data-name="椭圆 414" cx="53" cy="53" r="53" transform="translate(9 72.54)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 636, 3313.46)" filter="url(#椭圆_415)">
+      <circle id="椭圆_415-2" data-name="椭圆 415" cx="53" cy="53" r="53" transform="translate(548 293.54)" fill="#1f8aff"/>
+    </g>
+    <text id="Hello_" data-name="Hello!" transform="translate(698 3448)" fill="#687992" font-size="25" font-family="SFCompactText-Light, SF Text" font-weight="300"><tspan x="-32.239" y="0">Hello!</tspan></text>
+    <text id="Hello_2" data-name="Hello!" transform="translate(1237 3669)" fill="#fff" font-size="25" font-family="SFCompactText-Light, SF Text" font-weight="300"><tspan x="-32.239" y="0">Hello!</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 636, 3313.46)" filter="url(#矩形_754)">
+      <rect id="矩形_754-2" data-name="矩形 754" width="250" height="68" rx="10" transform="translate(199 165.54)" fill="#1f8aff"/>
+    </g>
+    <text id="c_m_e_mod_n" data-name="c≡ m^e mod n" transform="translate(962 3519)" fill="#fff" font-size="25" font-family="SFCompactText-Light, SF Text" font-weight="300"><tspan x="-77.698" y="0">c</tspan><tspan y="0" font-family="SegoeUI-Light, Segoe UI">≡</tspan><tspan y="0" xml:space="preserve"> m^e mod n</tspan></text>
+    <circle id="椭圆_416" data-name="椭圆 416" cx="4" cy="4" r="4" transform="translate(841 3436)" fill="#042e7a"/>
+    <circle id="椭圆_417" data-name="椭圆 417" cx="4" cy="4" r="4" transform="translate(956 3436)" fill="#042e7a"/>
+    <circle id="椭圆_418" data-name="椭圆 418" cx="4" cy="4" r="4" transform="translate(1076 3584)" fill="#042e7a"/>
+    <circle id="椭圆_419" data-name="椭圆 419" cx="4" cy="4" r="4" transform="translate(1233 3584)" fill="#042e7a"/>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="107" viewBox="0 0 80 107">
+  <g id="Application_lock" data-name="Application lock" transform="translate(-445 -3417)">
+    <rect id="矩形_724" data-name="矩形 724" width="71" height="98" rx="2" transform="translate(454 3426)" fill="#eaf4ff"/>
+    <g id="矩形_718" data-name="矩形 718" transform="translate(445 3417)" fill="#fff" stroke="#9bcaff" stroke-width="2.2">
+      <rect width="71" height="98" rx="2" stroke="none"/>
+      <rect x="1.1" y="1.1" width="68.8" height="95.8" rx="0.9" fill="none"/>
+    </g>
+    <circle id="椭圆_262" data-name="椭圆 262" cx="5" cy="5" r="5" transform="translate(476 3500)" fill="#9bcaff"/>
+    <rect id="矩形_721" data-name="矩形 721" width="71" height="2.2" transform="translate(445 3431)" fill="#9bcaff"/>
+    <rect id="矩形_722" data-name="矩形 722" width="71" height="2.2" transform="translate(445 3495)" fill="#9bcaff"/>
+    <rect id="矩形_727" data-name="矩形 727" width="32" height="24" rx="2" transform="translate(465 3461)" fill="#0062d1"/>
+    <g id="矩形_728" data-name="矩形 728" transform="translate(468 3443)" fill="none" stroke="#0062d1" stroke-width="2.2">
+      <rect width="26" height="34" rx="13" stroke="none"/>
+      <rect x="1.1" y="1.1" width="23.8" height="31.8" rx="11.9" fill="none"/>
+    </g>
+    <path id="联合_3" data-name="联合 3" d="M.319,9.541a.5.5,0,0,1-.447-.724L1.736,5.089a3.18,3.18,0,1,1,5.088,0L8.688,8.817a.5.5,0,0,1-.447.724Z" transform="translate(476.72 3467.179)" fill="#fff"/>
+  </g>
+</svg>

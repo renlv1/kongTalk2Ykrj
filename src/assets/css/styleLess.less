@@ -1,0 +1,51 @@
+@fff: #fff;
+@blue: #1f8aff;
+@warn: #ff5032;
+@title_color: #042e7a;
+@black: #000;
+@bc: #cfcfcf;
+@area_bg_color: #f6f8fa;
+@tit_color: #1c1e21;
+@text_color: #687992;
+@pc: ~'screen and (max-width:1200px)';
+@iPad: ~'screen and (max-width:768px)';
+@mob: ~'screen and (max-width: 375px)';
+@smallMob: ~'screen and (max-width:320px)';
+.mAuto{
+  margin: 0 auto;
+}
+.vCenter{
+  display: flex;
+  align-items: center;
+}
+.hCenter{
+  display: flex;
+  justify-content: space-between;
+}
+.hCenter2{
+  display: flex;
+  justify-content: center;
+}
+.allCenter{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wrapper-pc{
+  @media (max-width: 1200px) {
+    display: none
+  }
+  @media (min-width: 1200px) {
+    display: block
+  }
+}
+
+
+.wrapper-mobile{
+  @media (min-width: 1200px) {
+    display: none
+  }
+  @media (max-width: 1200px) {
+    display: block
+  }
+}

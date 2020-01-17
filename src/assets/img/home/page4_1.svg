@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="37" viewBox="0 0 44 37">
+  <g id="Free_version" data-name="Free version" transform="translate(-993.129 -4990.82)">
+    <g id="椭圆_260" data-name="椭圆 260" transform="translate(1000.129 4990.82)" fill="none" stroke="#9bcaff" stroke-width="2">
+      <circle cx="18.5" cy="18.5" r="18.5" stroke="none"/>
+      <circle cx="18.5" cy="18.5" r="17.5" fill="none"/>
+    </g>
+    <path id="路径_10365" data-name="路径 10365" d="M-7.137-4.786c.269,3,2.832,5.2,6.811,5.2C3.951.411,6.74-1.812,6.74-5.253c0-2.733-1.586-4.276-5.041-5.211l-3.243-.878c-1.883-.5-2.9-1.515-2.9-3.044,0-2.082,1.756-3.5,4.375-3.5,2.492,0,4.064,1.218,4.418,3.03H6.485c-.283-2.889-2.818-4.928-6.5-4.928-3.837,0-6.542,2.294-6.542,5.466,0,2.492,1.6,4.248,4.446,5L1.2-8.425c2.336.609,3.4,1.572,3.4,3.313C4.6-2.9,2.79-1.473-.071-1.473c-2.8,0-4.574-1.4-4.942-3.313Z" transform="translate(1019.129 5019.82)" fill="#0062d1"/>
+    <rect id="矩形_736" data-name="矩形 736" width="2.127" height="4.394" rx="1.063" transform="translate(1017.937 4997.086)" fill="#0062d1"/>
+    <rect id="矩形_737" data-name="矩形 737" width="2.127" height="4.394" rx="1.063" transform="translate(1017.937 5018.42)" fill="#0062d1"/>
+    <g id="椭圆_267" data-name="椭圆 267" transform="translate(993.129 5001.82)" fill="#fff" stroke="#0062d1" stroke-width="2">
+      <circle cx="8" cy="8" r="8" stroke="none"/>
+      <circle cx="8" cy="8" r="7" fill="none"/>
+    </g>
+    <rect id="矩形_738" data-name="矩形 738" width="2" height="15.063" transform="translate(1005.78 5003.82) rotate(45)" fill="#0062d1"/>
+  </g>
+</svg>

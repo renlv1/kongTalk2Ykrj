@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="66.023" height="68.3" viewBox="0 0 66.023 68.3">
+  <g id="Asymmetric_encryption" data-name="Asymmetric encryption" transform="translate(-381 -1228)">
+    <g id="Page-1" transform="translate(380.328 1228)">
+      <g id="Menu-" transform="translate(0.672)">
+        <g id="Menu">
+          <g id="Pay" transform="translate(0)">
+            <g id="PAY---Pay">
+              <g id="icon" transform="translate(0)">
+                <path id="bg" d="M2.527,0h41.82A1.826,1.826,0,0,1,46.2,1.794V57.4a1.826,1.826,0,0,1-1.856,1.794H2.527A1.826,1.826,0,0,1,.67,57.4V1.794A1.826,1.826,0,0,1,2.527,0Z" transform="translate(-0.67)" fill="#9bcaff"/>
+                <path id="Path" d="M1.737,1.067v54.64h40.98V1.067Z" transform="translate(0.54 1.21)" fill="#fff"/>
+                <rect id="bg-2" data-name="bg" width="18.213" height="2.277" transform="translate(9.107 31.873)" fill="#89befa"/>
+                <rect id="bg-3" data-name="bg" width="18.213" height="2.277" transform="translate(9.107 36.427)" fill="#89befa"/>
+                <rect id="bg-4" data-name="bg" width="18.213" height="2.277" transform="translate(9.107 43.257)" fill="#89befa"/>
+                <rect id="bg-5" data-name="bg" width="9.107" height="2.277" transform="translate(9.107 47.81)" fill="#89befa"/>
+                <rect id="bg-6" data-name="bg" width="4.553" height="2.277" transform="translate(30.442 11.383)" fill="#89befa"/>
+                <path id="bg-7" data-name="bg" d="M20.856,12.8h23.5a4.158,4.158,0,0,1,4.186,4.129V49.651a4.158,4.158,0,0,1-4.186,4.129h-23.5a4.158,4.158,0,0,1-4.186-4.129V16.929A4.158,4.158,0,0,1,20.856,12.8Zm-.205,2.277a1.687,1.687,0,0,0-1.7,1.67V49.833a1.687,1.687,0,0,0,1.7,1.67H44.564a1.687,1.687,0,0,0,1.7-1.67V16.747a1.687,1.687,0,0,0-1.7-1.67Z" transform="translate(17.48 14.52)" fill="#fff"/>
+                <path id="bg-8" data-name="bg" d="M19.441,13.867H43.354a1.687,1.687,0,0,1,1.7,1.67V48.623a1.687,1.687,0,0,1-1.7,1.67H19.441a1.687,1.687,0,0,1-1.7-1.67V15.537A1.687,1.687,0,0,1,19.441,13.867Z" transform="translate(18.69 15.73)" fill="#0062d1"/>
+                <path id="Path-2" data-name="Path" d="M18.8,14.933V46.807H41.571V14.933Z" transform="translate(19.9 16.94)" fill="#fff"/>
+                <path id="路径_9334" data-name="路径 9334" d="M12.713,5.67h-2.49L4.832,11.793h-.1V5.67H2.518V19H4.734V14.586l1.494-1.631,4,6.045h2.715L7.859,11.393Z" transform="translate(7 6)" fill="#9bcaff"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="矩形_676" data-name="矩形 676" transform="translate(425 1263)" fill="#fff" stroke="#0062d1" stroke-width="2.2">
+      <rect width="12" height="10" rx="1" stroke="none"/>
+      <rect x="1.1" y="1.1" width="9.8" height="7.8" rx="0.1" fill="none"/>
+    </g>
+    <rect id="矩形_677" data-name="矩形 677" width="2.2" height="15" transform="translate(430 1273)" fill="#0062d1"/>
+    <rect id="矩形_678" data-name="矩形 678" width="2.2" height="4" transform="translate(435.6 1279.4) rotate(90)" fill="#0062d1"/>
+    <rect id="矩形_679" data-name="矩形 679" width="2.2" height="3" transform="translate(434.6 1283.4) rotate(90)" fill="#0062d1"/>
+  </g>
+</svg>

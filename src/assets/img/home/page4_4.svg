@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40.362" height="40.361" viewBox="0 0 40.362 40.361">
+  <g id="Operation_Manual" data-name="Operation Manual" transform="translate(-313.558 28.413) rotate(-45)">
+    <g id="矩形_707" data-name="矩形 707" transform="translate(220.927 222.511)" fill="#fff" stroke="#9bcaff" stroke-width="2">
+      <rect width="15.314" height="15.314" rx="2" stroke="none"/>
+      <rect x="1" y="1" width="13.314" height="13.314" rx="1" fill="none"/>
+    </g>
+    <g id="矩形_708" data-name="矩形 708" transform="translate(247.379 222.511)" fill="#fff" stroke="#9bcaff" stroke-width="2">
+      <rect width="15.314" height="15.314" rx="2" stroke="none"/>
+      <rect x="1" y="1" width="13.314" height="13.314" rx="1" fill="none"/>
+    </g>
+    <line id="直线_2" data-name="直线 2" x2="21.183" transform="translate(231.218 230.168)" fill="none" stroke="#0062d1" stroke-linecap="round" stroke-width="2"/>
+  </g>
+</svg>

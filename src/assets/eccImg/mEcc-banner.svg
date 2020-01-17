@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1441.708" height="530.298" viewBox="0 0 1441.708 530.298">
+  <defs>
+    <filter id="椭圆_414" x="259.708" y="0.539" width="124" height="124" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#9bcaff" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="椭圆_450" x="518.708" y="0.539" width="124" height="124" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-color="#9bcaff" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="椭圆_452" x="796.708" y="0.539" width="124" height="124" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-color="#9bcaff" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="椭圆_453" x="1317.708" y="5.539" width="124" height="124" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-color="#9bcaff" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="椭圆_451" x="1056.708" y="0.539" width="124" height="124" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-color="#9bcaff" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="矩形_770" x="210.708" y="160" width="218" height="86" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-color="#9bcaff" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="矩形_770-2" x="210.708" y="305" width="218" height="86" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-color="#9bcaff" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="矩形_770-3" x="1009.708" y="319" width="218" height="86" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-color="#9bcaff" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="矩形_770-4" x="1009.708" y="160" width="218" height="86" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-9"/>
+      <feFlood flood-color="#9bcaff" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="KONGTALK_uses_the_RSA_algorithm_in_asymmetric_encryption_technology" data-name="KONGTALK uses the RSA algorithm in asymmetric  encryption technology" transform="translate(-377.292 -3242.461)">
+    <g id="组_1296" data-name="组 1296" transform="translate(-0.5 67.961)">
+      <path id="路径_10004" data-name="路径 10004" d="M3178,2239.6v530.2" transform="translate(-2217.5 934.899)" fill="none" stroke="#cce3ff" stroke-width="1" stroke-dasharray="4"/>
+      <path id="路径_9998" data-name="路径 9998" d="M3178,2239.6v530.2" transform="translate(-1941 935)" fill="none" stroke="#cce3ff" stroke-width="1" stroke-dasharray="4"/>
+      <path id="路径_9999" data-name="路径 9999" d="M0,0V1388.765" transform="translate(1812.56 3374.239) rotate(90)" fill="none" stroke="#cce3ff" stroke-width="1" stroke-dasharray="4"/>
+      <path id="路径_10000" data-name="路径 10000" d="M0,0V1434.769" transform="translate(1812.56 3519.72) rotate(90)" fill="none" stroke="#cce3ff" stroke-width="1" stroke-dasharray="4"/>
+      <path id="路径_10003" data-name="路径 10003" d="M3178,2239.6v530.2" transform="translate(-2481 935)" fill="none" stroke="#cce3ff" stroke-width="1" stroke-dasharray="4"/>
+      <path id="路径_10329" data-name="路径 10329" d="M0,0V1434.769" transform="translate(1812.56 3239.72) rotate(90)" fill="none" stroke="#cce3ff" stroke-width="1" stroke-dasharray="4"/>
+      <path id="路径_10333" data-name="路径 10333" d="M3178,2239.6v530.2" transform="translate(-1681 935)" fill="none" stroke="#cce3ff" stroke-width="1" stroke-dasharray="4"/>
+      <path id="路径_10339" data-name="路径 10339" d="M3178,2239.6v530.2" transform="translate(-1421 935)" fill="none" stroke="#cce3ff" stroke-width="1" stroke-dasharray="4"/>
+      <path id="路径_10340" data-name="路径 10340" d="M0,0V1434.769" transform="translate(1812.56 3664.72) rotate(90)" fill="none" stroke="#cce3ff" stroke-width="1" stroke-dasharray="4"/>
+      <path id="路径_10342" data-name="路径 10342" d="M3178,2239.6v530.2" transform="translate(-2741 935)" fill="none" stroke="#cce3ff" stroke-width="1" stroke-dasharray="4"/>
+    </g>
+    <g id="组_1382" data-name="组 1382" transform="translate(138 1614.461)">
+      <path id="路径_10343" data-name="路径 10343" d="M7520.117,2033.823h156.662v290.539H6356.517V1898.851H6575.4" transform="translate(-6058 -206)" fill="none" stroke="#042e7a" stroke-width="3"/>
+      <path id="路径_10344" data-name="路径 10344" d="M6713.136,2179.081h443.729V2033.3h175.274" transform="translate(-6058 -206)" fill="none" stroke="#042e7a" stroke-width="3"/>
+      <path id="路径_10345" data-name="路径 10345" d="M6616.236,1943.9v239.737" transform="translate(-6058 -206)" fill="none" stroke="#9bcaff" stroke-width="3"/>
+      <path id="路径_10346" data-name="路径 10346" d="M6616.236,2033.3H7157.31V1897.452H6900.642" transform="translate(-6058 -206)" fill="none" stroke="#9bcaff" stroke-width="3"/>
+      <path id="路径_10347" data-name="路径 10347" d="M7676.778,2033.3V1898.776H7449.463" transform="translate(-6058 -206)" fill="none" stroke="#9bcaff" stroke-width="3"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 377.29, 3242.46)" filter="url(#椭圆_414)">
+      <circle id="椭圆_414-2" data-name="椭圆 414" cx="53" cy="53" r="53" transform="translate(268.71 6.54)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 377.29, 3242.46)" filter="url(#椭圆_450)">
+      <circle id="椭圆_450-2" data-name="椭圆 450" cx="53" cy="53" r="53" transform="translate(527.71 6.54)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 377.29, 3242.46)" filter="url(#椭圆_452)">
+      <circle id="椭圆_452-2" data-name="椭圆 452" cx="53" cy="53" r="53" transform="translate(805.71 6.54)" fill="#1f8aff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 377.29, 3242.46)" filter="url(#椭圆_453)">
+      <circle id="椭圆_453-2" data-name="椭圆 453" cx="53" cy="53" r="53" transform="translate(1326.71 11.54)" fill="#1f8aff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 377.29, 3242.46)" filter="url(#椭圆_451)">
+      <circle id="椭圆_451-2" data-name="椭圆 451" cx="53" cy="53" r="53" transform="translate(1065.71 6.54)" fill="#fff"/>
+    </g>
+    <text id="Hello_" data-name="Hello!" transform="translate(699 3311)" fill="#687992" font-size="25" font-family="SFCompactText-Light, SF Text" font-weight="300"><tspan x="-32.239" y="0">Hello!</tspan></text>
+    <text id="Key" transform="translate(958 3311)" fill="#687992" font-size="25" font-family="SFCompactText-Light, SF Text" font-weight="300"><tspan x="-20.587" y="0">Key</tspan></text>
+    <text id="_5.4_" data-name="(5.4)" transform="translate(1236 3311)" fill="#fff" font-size="25" font-family="SFCompactText-Light, SF Text" font-weight="300"><tspan x="-25.922" y="0">(5.4)</tspan></text>
+    <text id="_11.4_" data-name="(11.4)" transform="translate(1757 3316)" fill="#fff" font-size="25" font-family="SFCompactText-Light, SF Text" font-weight="300"><tspan x="-29.156" y="0">(11.4)</tspan></text>
+    <text id="Key-2" data-name="Key" transform="translate(1496 3311)" fill="#687992" font-size="25" font-family="SFCompactText-Light, SF Text" font-weight="300"><tspan x="-20.587" y="0">Key</tspan></text>
+    <g id="组_1378" data-name="组 1378">
+      <g transform="matrix(1, 0, 0, 1, 377.29, 3242.46)" filter="url(#矩形_770)">
+        <rect id="矩形_770-5" data-name="矩形 770" width="200" height="68" rx="8" transform="translate(219.71 166)" fill="#fff"/>
+      </g>
+      <text id="_2" data-name="2" transform="translate(631 3449.461)" fill="#687992" font-size="18" font-family="SFCompactText-Light, SF Text" font-weight="300"><tspan x="0" y="0">2</tspan></text>
+      <text id="_5" data-name="5" transform="translate(643 3443.461)" fill="#687992" font-size="9" font-family="SFCompactText-Light, SF Text" font-weight="300"><tspan x="0" y="0">5</tspan></text>
+      <text id="mod_14_4" data-name="mod（14）=4" transform="translate(652 3449.461)" fill="#687992" font-size="18" font-family="SFCompactText-Light, SF Text" font-weight="300"><tspan x="0" y="0">mod</tspan><tspan y="0" font-family="YuGothicUI-Light, Yu Gothic UI">（</tspan><tspan y="0">14</tspan><tspan y="0" font-family="YuGothicUI-Light, Yu Gothic UI">）</tspan><tspan y="0">=4</tspan></text>
+      <text id="_2-2" data-name="2" transform="translate(631 3449.461)" fill="#687992" font-size="18" font-family="SFCompactText-Light, SF Text" font-weight="300"><tspan x="0" y="0">2</tspan></text>
+      <text id="mod_14_4-2" data-name="mod（14）=4" transform="translate(652 3449.461)" fill="#687992" font-size="18" font-family="SFCompactText-Light, SF Text" font-weight="300"><tspan x="0" y="0">mod</tspan><tspan y="0" font-family="YuGothicUI-Light, Yu Gothic UI">（</tspan><tspan y="0">14</tspan><tspan y="0" font-family="YuGothicUI-Light, Yu Gothic UI">）</tspan><tspan y="0">=4</tspan></text>
+    </g>
+    <g id="组_1380" data-name="组 1380" transform="translate(0 145)">
+      <g transform="matrix(1, 0, 0, 1, 377.29, 3097.46)" filter="url(#矩形_770-2)">
+        <rect id="矩形_770-6" data-name="矩形 770" width="200" height="68" rx="8" transform="translate(219.71 311)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="组_1381" data-name="组 1381" transform="translate(799 159)">
+      <g transform="matrix(1, 0, 0, 1, -421.71, 3083.46)" filter="url(#矩形_770-3)">
+        <rect id="矩形_770-7" data-name="矩形 770" width="200" height="68" rx="8" transform="translate(1018.71 325)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="组_1379" data-name="组 1379" transform="translate(799)">
+      <g transform="matrix(1, 0, 0, 1, -421.71, 3242.46)" filter="url(#矩形_770-4)">
+        <rect id="矩形_770-8" data-name="矩形 770" width="200" height="68" rx="8" transform="translate(1018.71 166)" fill="#fff"/>
+      </g>
+      <g id="组_1207" data-name="组 1207" transform="translate(-452 2612.461)">
+        <text id="_11" data-name="11" transform="translate(1096 831)" fill="#687992" font-size="9" font-family="SFCompactText-Light, SF Text" font-weight="300"><tspan x="0" y="0">11</tspan></text>
+        <text id="mod_14_2" data-name="mod（14）=2" transform="translate(1105 837)" fill="#687992" font-size="18" font-family="SFCompactText-Light, SF Text" font-weight="300"><tspan x="0" y="0">mod</tspan><tspan y="0" font-family="YuGothicUI-Light, Yu Gothic UI">（</tspan><tspan y="0">14</tspan><tspan y="0" font-family="YuGothicUI-Light, Yu Gothic UI">）</tspan><tspan y="0">=2</tspan></text>
+        <text id="_4" data-name="4" transform="translate(1084 837)" fill="#687992" font-size="18" font-family="SFCompactText-Light, SF Text" font-weight="300"><tspan x="0" y="0">4</tspan></text>
+      </g>
+    </g>
+    <text id="Encrypted_Message" data-name="Encrypted Message" transform="translate(618 3594.461)" fill="#687992" font-size="18" font-family="SFCompactText-Light, SF Text" font-weight="300"><tspan x="0" y="0">Encrypted Message</tspan></text>
+    <text id="Decrypted_Message" data-name="Decrypted Message" transform="translate(1417 3608.461)" fill="#687992" font-size="18" font-family="SFCompactText-Light, SF Text" font-weight="300"><tspan x="0" y="0">Decrypted Message</tspan></text>
+    <circle id="椭圆_459" data-name="椭圆 459" cx="4" cy="4" r="4" transform="translate(889.292 3437.461)" fill="#042e7a"/>
+    <circle id="椭圆_460" data-name="椭圆 460" cx="4" cy="4" r="4" transform="translate(1233.292 3437.461)" fill="#042e7a"/>
+    <circle id="椭圆_461" data-name="椭圆 461" cx="4" cy="4" r="4" transform="translate(1089.292 3301.461)" fill="#042e7a"/>
+    <circle id="椭圆_462" data-name="椭圆 462" cx="4" cy="4" r="4" transform="translate(1627.292 3302.461)" fill="#042e7a"/>
+    <circle id="椭圆_463" data-name="椭圆 463" cx="4" cy="4" r="4" transform="translate(1753.292 3437.461)" fill="#042e7a"/>
+    <circle id="椭圆_464" data-name="椭圆 464" cx="4" cy="4" r="4" transform="translate(1753.292 3728.461)" fill="#042e7a"/>
+    <circle id="椭圆_465" data-name="椭圆 465" cx="4" cy="4" r="4" transform="translate(1383.292 3728.461)" fill="#042e7a"/>
+    <circle id="椭圆_466" data-name="椭圆 466" cx="4" cy="4" r="4" transform="translate(875.292 3728.461)" fill="#042e7a"/>
+    <circle id="椭圆_467" data-name="椭圆 467" cx="4" cy="4" r="4" transform="translate(432.292 3583.461)" fill="#042e7a"/>
+  </g>
+</svg>

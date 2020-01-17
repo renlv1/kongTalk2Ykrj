@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="107" viewBox="0 0 80 107">
+  <g id="Encrypted_reminder" data-name="Encrypted reminder" transform="translate(-445 -3417)">
+    <rect id="矩形_724" data-name="矩形 724" width="71" height="98" rx="2" transform="translate(454 3426)" fill="#eaf4ff"/>
+    <g id="矩形_718" data-name="矩形 718" transform="translate(445 3417)" fill="#fff" stroke="#9bcaff" stroke-width="2.2">
+      <rect width="71" height="98" rx="2" stroke="none"/>
+      <rect x="1.1" y="1.1" width="68.8" height="95.8" rx="0.9" fill="none"/>
+    </g>
+    <circle id="椭圆_262" data-name="椭圆 262" cx="5" cy="5" r="5" transform="translate(476 3500)" fill="#9bcaff"/>
+    <rect id="矩形_721" data-name="矩形 721" width="71" height="2.2" transform="translate(445 3431)" fill="#9bcaff"/>
+    <rect id="矩形_722" data-name="矩形 722" width="71" height="2.2" transform="translate(445 3495)" fill="#9bcaff"/>
+    <path id="XMLID_49_" d="M89.075,93.518a2.127,2.127,0,0,1-1.8,2.106l-.331,1.218a1.516,1.516,0,0,1-1.464,1.124H82.2a1.516,1.516,0,0,1-1.464-1.124l-.321-1.218A2.137,2.137,0,0,1,78.6,93.508V92.167a1.29,1.29,0,0,1,1.294-1.294h7.887s1.223-.135,1.294.6A18.244,18.244,0,0,1,89.075,93.518ZM95.148,74.1a11.251,11.251,0,0,1-3.174,7.849A10.37,10.37,0,0,0,89.2,87.577a1.87,1.87,0,0,1-1.851,1.577H80.328a1.852,1.852,0,0,1-1.842-1.568,10.485,10.485,0,0,0-2.8-5.648A11.307,11.307,0,1,1,95.148,74.1Z" transform="translate(396.464 3387.636)" fill="#0062d1"/>
+    <path id="XMLID_49_2" data-name="XMLID_49_" d="M31.826,7.018A1.276,1.276,0,0,0,33.1,5.743V1.275a1.275,1.275,0,1,0-2.55,0V5.743A1.276,1.276,0,0,0,31.826,7.018ZM16.818,22.026a1.276,1.276,0,0,0-1.275-1.275H11.075a1.275,1.275,0,0,0,0,2.55h4.467A1.27,1.27,0,0,0,16.818,22.026Zm35.759-1.275H48.109a1.275,1.275,0,0,0,0,2.55h4.467a1.275,1.275,0,0,0,0-2.55ZM19.415,32.642l-3.164,3.164a1.272,1.272,0,0,0,1.795,1.8l3.164-3.164a1.272,1.272,0,1,0-1.795-1.8ZM43.339,11.787a1.273,1.273,0,0,0,.9-.368L47.4,8.255a1.276,1.276,0,1,0-1.8-1.8L42.433,9.615a1.271,1.271,0,0,0,0,1.8A1.3,1.3,0,0,0,43.339,11.787ZM19.415,11.41a1.272,1.272,0,0,0,1.795-1.8L18.046,6.442a1.276,1.276,0,1,0-1.8,1.8ZM44.237,32.642a1.276,1.276,0,1,0-1.8,1.8L45.6,37.61a1.272,1.272,0,0,0,1.795-1.8Z" transform="translate(448.662 3439.7)" fill="#9bcaff"/>
+    <g id="组_1022" data-name="组 1022" transform="translate(961 6928) rotate(180)">
+      <rect id="矩形_725" data-name="矩形 725" width="10" height="7" rx="2" transform="translate(486 3466) rotate(-180)" fill="#9bcaff"/>
+      <g id="矩形_726" data-name="矩形 726" transform="translate(484 3471) rotate(-180)" fill="none" stroke="#9bcaff" stroke-width="2.2">
+        <rect width="6" height="9" rx="3" stroke="none"/>
+        <rect x="1.1" y="1.1" width="3.8" height="6.8" rx="1.9" fill="none"/>
+      </g>
+      <path id="联合_2" data-name="联合 2" d="M.452,2.732A.5.5,0,0,1,0,2.009L.28,1.457a.911.911,0,1,1,1.457,0l.275.551a.5.5,0,0,1-.446.724Z" transform="translate(482.009 3464.09) rotate(-180)" fill="#1f8aff"/>
+    </g>
+  </g>
+</svg>
